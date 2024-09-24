@@ -1,3 +1,5 @@
+**THIS IS NO LONGER NEEDED AND I DO NOT RECOMMEND USING THIS. Please check out UIHARUX FREE by the Misaka Team from their discord or buy the beta full version in straight-tamago's patreon instead. Thank you!**
+
 # FrontBoardAppLauncher
 Reference usage of FrontBoard &amp; UIKit private API to display external app scene
 This app implements multitasking.
